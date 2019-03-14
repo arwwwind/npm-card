@@ -22,7 +22,7 @@ const data = {
   dribbble: chalk.gray('https://dribbble.com/') + chalk.cyan('ImArvind'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~thearvindnarayan'),
   github: chalk.gray('https://github.com/') + chalk.green('thearvindnarayan'),
-  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('arvind-narayan-311952110'),
+  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('thearvindnarayan'),
   web: chalk.cyan('http://imarvind.uphero.com'),
   npx: chalk.red('npx') + ' ' + chalk.white('thearvindnarayan'),
   labelDribbble: chalk.red('   Dribbble:'),
