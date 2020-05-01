@@ -1,6 +1,6 @@
 {
   "name": "thearvindnarayan",
-  "version": "1.5.2",
+  "version": "1.6.2",
   "description": "A personal card for Arvind Narayan",
   "main": "/bin/card.js",
   "bin": {
@@ -8,14 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArvindNarayanCognitive/bitandbang"
+    "url": "https://github.com/thearvindnarayan/bitandbang"
   },
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
     "dev": "npm run build && node ./bin/card.js",
-    "lint": "standard",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "standard"
   },
   "keywords": [
     "card",
